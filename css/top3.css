@@ -1,16 +1,15 @@
 .pic {
     height: 300px;
+    border-radius: 5%;
 }
 
-body {
-    margin-left: 50px;
-    margin-right: 50px;
+
+
+.li1, .li2, .li3 {
+    width: 60%;
+    background-color: #EFE9F4;
+    border-radius: 50px;
+    padding: 20px;
+    margin-bottom: 30px;
 }
 
-p  {
-    font-size: large;
-}
-
-h1, h2 {
-    font-size: 10;
-}
