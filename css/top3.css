@@ -3,18 +3,7 @@
     border-radius: 5%;
 }
 
-body {
-    margin-left: 50px;
-    margin-right: 50px;
-}
 
-p  {
-    font-size: large;
-}
-
-h1, h2 {
-    font: size 10;
-}
 
 .li1, .li2, .li3 {
     width: 60%;
@@ -24,6 +13,3 @@ h1, h2 {
     margin-bottom: 30px;
 }
 
-body {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
